@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Radar</string>
+    <string name="angle">Angle: %1$sº</string>
+    <string name="server_url">http://192.168.0.135:50051</string>
+</resources>
